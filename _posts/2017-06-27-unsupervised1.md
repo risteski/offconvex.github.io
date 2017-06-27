@@ -6,9 +6,13 @@ author: Sanjeev Arora and Andrej Risteski
 visible: True
 ---
 $$\newcommand{\E}{\mathbb{E}}$$
+
 $$\newcommand{\mX}{{\mathcal X}}$$
+
 $$\newcommand{\mH}{{\mathcal H}}$$
+
 $$\newcommand{\mC}{{\mathcal C}}$$
+
 $$\newcommand{\from}{\colon}$$
 
 *Unsupervised learning*, as the name suggests, is the science of learning from unlabeled data. A look at the [wikipedia page](https://en.wikipedia.org/wiki/Unsupervised_learning) shows that this term has many interpretations: 
